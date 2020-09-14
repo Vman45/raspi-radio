@@ -10,3 +10,6 @@ sudo apt-get install mopidy-spotify -y
 sudo apt-get install mopidy-mpd -y
 sudo python3 -m pip install Mopidy-YouTube
 sudo python3 -m pip install Mopidy-MusicBox-Webclient
+sudo python3 -m pip install Mopidy-RadioNet
+sudo python3 -m pip install Mopidy-GMusic
+sudo python3 -m pip install Mopidy-TuneIn
